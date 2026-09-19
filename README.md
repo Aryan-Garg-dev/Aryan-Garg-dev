@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--garg--dev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-garg-dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Garg--Aryan--dev-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Garg-Aryan-dev)
-[![Email](https://img.shields.io/badge/Email-aryangarg3010%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aryangarg3010@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryangarg.dev-EA4335?style=flat&logo=gmail&logoColor=white)](https://www.aryangarg.dev/)
 
 </div>
 
